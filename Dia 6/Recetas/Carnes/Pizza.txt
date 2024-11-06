@@ -1,0 +1,10 @@
+1.	Margarita
+2.	Pepperoni
+3.	Hawaiana
+4.	Barbacoa
+5.	Cuatro quesos
+6.	Vegetariana
+7.	Mexicana
+8.	Margarita con jamón
+9.	Pizza de champiñones
+10.	Pizza York
